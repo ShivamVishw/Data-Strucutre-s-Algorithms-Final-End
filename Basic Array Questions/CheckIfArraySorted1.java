@@ -1,11 +1,17 @@
 // TUF Problem Link: https://takeuforward.org/practice/dsa/check-if-the-array-is-sorted-i
 
-class Solution{
-
-}
 
 public class CheckIfArraySorted1 {
-    public static void main(String[] args) {
-        
-    }
+    boolean arraySortedOrNot(int[] arr, int n) {
+        for(int first =0; first<n-1; first ++){
+           for(int second = first+1; second<n; second++){
+             if(arr[first]> arr[second]){
+                 return false;
+             }
+           }
+ 
+        }
+ 
+        return true;
+     }
 }

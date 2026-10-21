@@ -1,20 +1,30 @@
 // Problem Link: https://takeuforward.org/practice/dsa/pattern-16
 
-class Solution {
 
-    static void Pattern16(int n ){
-        
-    }
-    
-}
 
 /**
  * Pattern Questions
  */
 public class Pattern16 {
 
-    public static void main(String[] args) {
-        
+    public void pattern16(int n) {
+        for(int row=1; row<=n; row++){
+            for(int col =1; col<=row; col++){
+                System.out.print((char) ('A' + row -1));
+            }
+            System.out.println();
+        }
     }
     
 }
+
+// Output: 
+// A
+
+// BB
+
+// CCC
+
+// DDDD
+
+// EEEEE

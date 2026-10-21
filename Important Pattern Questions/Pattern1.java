@@ -1,20 +1,28 @@
 // Problem Link: https://takeuforward.org/practice/dsa/pattern-1
 
-class Solution {
-
-    static void Pattern1(int n ){
-        
-    }
-    
-}
-
 /**
- * Pattern Questions
+ * Pattern1
  */
 public class Pattern1 {
 
-    public static void main(String[] args) {
+    public void pattern1(int n) {
         
+        for(int i =0; i<n; i++){
+            for(int j =0; j<n; j++){
+                System.out.print("*");
+            }
+            System.out.println();
+        }
     }
-    
+
 }
+
+
+/*
+
+****
+****
+****
+****
+
+ */

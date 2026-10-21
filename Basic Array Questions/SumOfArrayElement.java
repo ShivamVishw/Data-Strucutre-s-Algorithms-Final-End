@@ -1,11 +1,15 @@
 // TUF Problem Link: https://takeuforward.org/practice/dsa/sum-of-array-elements
 
-class Solution{
-
-}
 
 public class SumOfArrayElement {
-    public static void main(String[] args) {
+    public int sum(int arr[], int n) {
         
+        int sum =0;
+
+        for(int num : arr){
+            sum+=num;
+        }
+
+        return sum;
     }
 }

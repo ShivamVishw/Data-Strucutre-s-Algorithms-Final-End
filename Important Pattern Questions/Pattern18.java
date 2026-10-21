@@ -1,20 +1,29 @@
 // Problem Link: https://takeuforward.org/practice/dsa/pattern-21
 
-class Solution {
-
-    static void Pattern18(int n ){
-        
-    }
-    
-}
 
 /**
  * Pattern Questions
  */
 public class Pattern18 {
 
-    public static void main(String[] args) {
-        
+    public void pattern21(int n) {
+        for(int row =1; row<=n; row++){
+            for(int col =1; col<=n; col++){
+                if(row==1 || col==1 || row==n || col==n){
+                    System.out.print("*");
+                }else{
+                    System.out.print(" ");
+                }
+            }
+            System.out.println();
+        }
     }
     
 }
+
+// output:
+// *****
+// *   *
+// *   *
+// *   *
+// *****
