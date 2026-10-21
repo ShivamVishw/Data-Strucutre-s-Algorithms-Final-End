@@ -1,3 +1,5 @@
+// TUF Problem Link: https://takeuforward.org/practice/dsa/check-for-prime-number
+
 class Solution{
 
 }

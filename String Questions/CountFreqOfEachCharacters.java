@@ -1,5 +1,7 @@
+// NO problem link just practice
+
 class Solution{
-    
+
 }
 
 public class CountFreqOfEachCharacters {

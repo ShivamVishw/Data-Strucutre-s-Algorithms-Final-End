@@ -1,3 +1,6 @@
+// TUF Problem Link: https://takeuforward.org/practice/dsa/palindrome-number
+// LeetCode Problem Link: https://leetcode.com/problems/palindrome-number/description/ 
+
 class Solution{
 
 }
