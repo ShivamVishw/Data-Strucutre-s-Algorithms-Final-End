@@ -1,5 +1,3 @@
-# Data-Strucutres-Algorithms-Final-End
-
 # Data Structures and Algorithms in Java
 
 A structured collection of **Data Structures and Algorithms (DSA) problems solved using Java**, covering fundamental programming concepts, problem-solving patterns, and coding interview questions.
