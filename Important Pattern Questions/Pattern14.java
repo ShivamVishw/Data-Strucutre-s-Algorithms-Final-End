@@ -1,3 +1,5 @@
+// Problem Link: https://takeuforward.org/practice/dsa/pattern-14
+
 class Solution {
 
     static void Pattern14(int n ){

@@ -1,3 +1,5 @@
+// Problem Link: https://takeuforward.org/practice/dsa/pattern-8
+
 class Solution {
 
     static void Pattern8(int n ){
