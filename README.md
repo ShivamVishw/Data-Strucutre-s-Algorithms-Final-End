@@ -123,9 +123,14 @@ Each topic has its own dedicated folder to keep the code organized and easy to n
 
 ---
 
-**Author:** Shivam Vishwakarma
+## 👨‍💻 Author
 
-- [Portfolio](https://shivamvportfolio.vercel.app)
-- [GitHub Profile](https://github.com/ShivamVishw)
-- [LinkedIn Profile](https://www.linkedin.com/in/shivam-vishwakarma-b981b3206/)
-- [Explore This Repository](https://github.com/ShivamVishw/Data-Strucutre-s-Algorithms-Final-End)
+**Shivam Vishwakarma**
+
+🌐 **Portfolio:** [shivamvportfolio.vercel.app](https://shivamvportfolio.vercel.app/)
+
+💻 **GitHub:** [ShivamVishw](https://github.com/ShivamVishw)
+
+🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shivam-vishwakarma-b981b3206/)
+
+---
