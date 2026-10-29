@@ -1,4 +1,5 @@
 // GFG Problem Link: https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1
+// Coding Ninjas problem: https://www.naukri.com/code360/problems/0-1-knapsack_920542
 
 import java.util.Arrays;
 
